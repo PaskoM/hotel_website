@@ -180,9 +180,6 @@ p {
   text-align: center;
 }
 
-
-
-
 .box i {
   margin-bottom: 10px;
 }
@@ -273,10 +270,5 @@ p {
 
 h1 {
   text-align: left;
-  color: green;
 }
 
-#title {
-  text-align: center;
-  color: red;
-}

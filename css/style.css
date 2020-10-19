@@ -99,7 +99,7 @@ p {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px
 }
@@ -172,13 +172,16 @@ p {
   padding-bottom: 30px;
 }
 
-/* Features */
+
 .box {
   float: left;
   width: 33.3%;
   padding: 50px;
   text-align: center;
 }
+
+
+
 
 .box i {
   margin-bottom: 10px;
@@ -267,3 +270,13 @@ p {
   padding: 20px;
 }
 
+
+h1 {
+  text-align: left;
+  color: green;
+}
+
+#title {
+  text-align: center;
+  color: red;
+}
